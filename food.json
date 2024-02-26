@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chicken Curry",
+    "imgUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2022/09/Air-Fryer-Chicken-Curry-square-FS-36.jpg",
+    "calories": 110,
+    "protein": 15,
+    "fiber": 10,
+    "fat": 5,
+    "carbohydrates": 2
+  },
+  {
+    "name": "Panner Tikka",
+    "imgUrl": "https://spicecravings.com/wp-content/uploads/2020/10/Paneer-Tikka-1-500x500.jpg",
+    "calories": 140,
+    "protein": 11,
+    "fiber": 9,
+    "fat": 1,
+    "carbohydrates": 3
+  },
+  {
+    "name": "Butter Chiken",
+    "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
+    "calories": 170,
+    "protein": 19,
+    "fiber": 11,
+    "fat": 5,
+    "carbohydrates": 2
+  },
+  {
+    "name": "BBQ Chicken",
+    "imgUrl": "https://www.allrecipes.com/thmb/APtZNY1GgOf3Ph0JUc-j4dImjrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2467480-southern-bbq-chicken-Allrecipes-Magazine-4x3-1-3e180dccbaae446c8c2d05f708611fc6.jpg",
+    "calories": 190,
+    "protein": 12,
+    "fiber": 10,
+    "fat": 3,
+    "carbohydrates": 4
+  }
+]
